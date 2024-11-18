@@ -1,0 +1,241 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "f3ea98a8-87f4-4de9-981b-605ff8c64319")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 161.29 71.12)
+		(size 12.7 29.21)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "097e8047-af3e-4a15-b35f-121af6ad683c")
+		(property "Sheetname" "Analog Output"
+			(at 161.29 70.4084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "analogOutput.kicad_sch"
+			(at 161.29 100.9146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Guitar-Effects-Unit"
+				(path "/f3ea98a8-87f4-4de9-981b-605ff8c64319"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 76.2 90.17)
+		(size 12.7 29.21)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "09e62a8f-8889-48ac-9cb2-f2f94c96734a")
+		(property "Sheetname" "Analog Input "
+			(at 76.2 89.4584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "analogInput.kicad_sch"
+			(at 76.2 119.9646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Guitar-Effects-Unit"
+				(path "/f3ea98a8-87f4-4de9-981b-605ff8c64319"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 91.44 40.64)
+		(size 12.7 29.21)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "2e101185-fe7f-4f16-9f5f-88540f36f757")
+		(property "Sheetname" "Front Panel Controls"
+			(at 91.44 39.9284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "frontPanelControls.kicad_sch"
+			(at 91.44 70.4346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Guitar-Effects-Unit"
+				(path "/f3ea98a8-87f4-4de9-981b-605ff8c64319"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 231.14 43.18)
+		(size 12.7 29.21)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7d861077-b0b6-43c9-8afc-ef444afc59e8")
+		(property "Sheetname" "Power Supplies "
+			(at 231.14 42.4684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "powerSupplies.kicad_sch"
+			(at 231.14 72.9746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Guitar-Effects-Unit"
+				(path "/f3ea98a8-87f4-4de9-981b-605ff8c64319"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 161.29 111.76)
+		(size 12.7 29.21)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8df7bdb7-9bd7-4430-b2c5-bc3ee85cb99d")
+		(property "Sheetname" "Digital Processing"
+			(at 161.29 111.0484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "digitalProcessing.kicad_sch"
+			(at 161.29 141.5546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Guitar-Effects-Unit"
+				(path "/f3ea98a8-87f4-4de9-981b-605ff8c64319"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 105.41 90.17)
+		(size 12.7 29.21)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "9d96b732-a1cd-459d-bbaf-cc6bffd4a2dd")
+		(property "Sheetname" "Analog to Digital - Digital to Analog"
+			(at 105.41 89.4584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ADC-DAC.kicad_sch"
+			(at 105.41 119.9646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Guitar-Effects-Unit"
+				(path "/f3ea98a8-87f4-4de9-981b-605ff8c64319"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
