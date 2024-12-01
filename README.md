@@ -54,3 +54,6 @@ So far, because of the complexity of standard effect chains, several requirement
 While not hard requirements, we have several functions that would be nice to integrate into our unit design. One of these functions is analog monitor output. Because of the conversion from analog to digital signals, our unit inherently introduces a delay to the entire system; a delay that using analog monitors would remove. Another workaround to this delay would be a high sampling rate for our ADCs (Analog-Digital Converter). While this would reduce the delay introduced by the unit, high sampling rates also require better hardware that is able to keep up with sampling rates. To reflect these hard and soft requirements, we have created a decision matrix with several solutions, and have modularized work in order to assign it to individual team members.
 
 
+# Presentation
+[Slides link (with editor access)](https://docs.google.com/presentation/d/1k-_Xbwdici6hV1Nm7ExJK9yDvCZzb60pYfbO3nlM_dQ/edit?usp=sharing)
+
