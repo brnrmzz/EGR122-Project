@@ -57,3 +57,5 @@ While not hard requirements, we have several functions that would be nice to int
 # Presentation
 [Slides link (with editor access)](https://docs.google.com/presentation/d/1k-_Xbwdici6hV1Nm7ExJK9yDvCZzb60pYfbO3nlM_dQ/edit?usp=sharing)
 
+# Report
+[Docs link (with viewer accesss)](https://docs.google.com/document/d/1ml5jPTLHlhFTG2CWHP0VoW_UAEkIt0Kg1A3PQ4HniN0/edit?usp=sharing)
